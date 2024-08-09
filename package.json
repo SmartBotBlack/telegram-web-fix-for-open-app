@@ -1,0 +1,14 @@
+{
+	"name": "telegram-web-fix-for-open-app",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"lint": "npx @biomejs/biome format --write ./src"
+	},
+	"keywords": ["telegram", "bot"],
+	"author": "SmartBot Team",
+	"devDependencies": {
+		"@biomejs/biome": "1.8.3"
+	}
+}
